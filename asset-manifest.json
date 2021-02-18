@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/morney-react-website/static/css/main.a06171f9.chunk.css",
+    "main.js": "/morney-react-website/static/js/main.5b459183.chunk.js",
+    "main.js.map": "/morney-react-website/static/js/main.5b459183.chunk.js.map",
+    "runtime-main.js": "/morney-react-website/static/js/runtime-main.75db5354.js",
+    "runtime-main.js.map": "/morney-react-website/static/js/runtime-main.75db5354.js.map",
+    "static/js/2.f85661fc.chunk.js": "/morney-react-website/static/js/2.f85661fc.chunk.js",
+    "static/js/2.f85661fc.chunk.js.map": "/morney-react-website/static/js/2.f85661fc.chunk.js.map",
+    "index.html": "/morney-react-website/index.html",
+    "static/css/main.a06171f9.chunk.css.map": "/morney-react-website/static/css/main.a06171f9.chunk.css.map",
+    "static/js/2.f85661fc.chunk.js.LICENSE.txt": "/morney-react-website/static/js/2.f85661fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75db5354.js",
+    "static/js/2.f85661fc.chunk.js",
+    "static/css/main.a06171f9.chunk.css",
+    "static/js/main.5b459183.chunk.js"
+  ]
+}
